@@ -2,3 +2,4 @@ I am Laening DJANGO.
 I love myself,moreover I respect myself.
 order matters in git correct statement:git commit --amend -m "Message"
 Rest all which I typed was wrong and I want to focus on my marks the reason why I am feeling that I am weak.
+Hi I am Rekha Gupta.I will eat Delhi for sure.
