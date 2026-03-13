@@ -1,0 +1,7 @@
+Gssoc links
+1.https://hepsoftwarefoundation.org/gsoc/2026/proposal_Spack_Key4HEPMigration.html
+2.https://hepsoftwarefoundation.org/gsoc/2026/proposal_Spack_DebuggableInstalls.html
+3.https://hepsoftwarefoundation.org/gsoc/2026/proposal_PODIO_Arrow.html
+4.https://hepsoftwarefoundation.org/gsoc/2026/proposal_OMNIFOLD.html(imp)
+5.https://hepsoftwarefoundation.org/gsoc/2026/proposal_NegativeWeightsATLAS.html
+6.https://hepsoftwarefoundation.org/gsoc/2026/proposal_DUNE_FORM.html
