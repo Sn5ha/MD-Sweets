@@ -10,4 +10,6 @@ I am trying to add django or should I set a new commit.
 Fitness:(a)I wanna run 3 km in 1 go by the end of this year.
         (b)I wanna join Sourav Bothra's yoga class from my own money.
         (c)I wanna turn into complete veg by next year.
+        (d)I wanna be capable of buying TATA 1mg protein powder for next 1 year complete.
+        (e)I wanna do an intership at IISc by the end of this year particulary in a tech stack which I really enjoy probably backend or full stack.
 
