@@ -6,5 +6,8 @@ Rest all which I typed was wrong and I want to focus on my marks the reason why 
 Hi I am Rekha Gupta.I will eat Delhi for sure.n
 Hii I am stuck and have almost fucked my entire project.
 
-I am trying to add django or should I sat a new commit.
+I am trying to add django or should I set a new commit.
+Fitness:(a)I wanna run 3 km in 1 go by the end of this year.
+        (b)I wanna join Sourav Bothra's yoga class from my own money.
+        (c)I wanna turn into complete veg by next year.
 
